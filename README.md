@@ -1,7 +1,8 @@
-### Hi there 👋, Iam Husni    
+### Hi there 👋, Iam Husni.    
 
-- 🌱 I’m currently learning Kotlin, and C#  
-- 📫 How to reach me: Just Email me
+- 🌱 I’m currently learning : Kotlin, and C#  
+- 📫 How to reach me: Just Email me  
+- 🔭 Let's Collaborate...  
 <a href="https://github.com/whoishusni">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=whoishusni&theme=defaulth&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whoishusni&theme=default&layout=compact" />
