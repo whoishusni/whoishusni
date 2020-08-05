@@ -6,9 +6,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=whoishusni&theme=defaulth&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whoishusni&theme=default&layout=compact" />
 </a>  
-<p align="left">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="50"><img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="50"><img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="50"><img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="50"><img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="50"><img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="50"><img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="50"><img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="50"><img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="50"><img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="50"><img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="50"><img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="50"><img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="50"><img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="50"><img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="50"><img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="50"><img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="50">
-</p>
+
 <!--
 **whoishusni/whoishusni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
