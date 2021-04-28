@@ -1,6 +1,6 @@
 ### Hi there 👋, Iam Husni.    
 
-- 🌱 I’m currently learning : Kotlin, and C#  
+- 🌱 I’m currently learning : Python  
 - 📫 How to reach me: Just Email me  
 - 🔭 Let's Collaborate...  
 
